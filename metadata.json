@@ -1,0 +1,6 @@
+{
+  "name": "আমার দোকান",
+  "description": "দেশীয় ঐতিহ্য ও আধুনিক রুচির সমন্বয়ে তৈরি হাতে বোনা পোশাক, গৃহসজ্জা, চামড়াজাত ও খাঁটি পণ্যের বিশ্বস্ত অনলাইন স্টোর।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
